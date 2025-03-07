@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sravan Saiba</h1>
-<h3 align="center">A Software Developer & MERN Stack Enthusiast</h3>
+<h3 align="center">Software Developer | MERN Stack | Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sravansaiba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,45 +8,48 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working as a **Junior Developer Intern at Vidyardi Institutions**
-- 💡 Passionate about **MERN stack, React Native, and scalable web solutions**
-- 🌱 Learning **Next.js & TypeScript**
-- 🤝 Open to **collaborations on MERN & AI-driven projects**
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Python, and Django**
-- 📫 Reach me at **[sravansaiba@gmail.com](mailto:sravansaiba@gmail.com)**
-- 🌍 **[Portfolio](#)** | [LinkedIn](https://linkedin.com/in/sravansaiba) | [GitHub](https://github.com/sravansaiba)
+- 🔭 **Currently:** Junior Developer Intern at **Vidaryadi Institutions**
+- 💡 Passionate about **MERN stack, Data Science, and AI-driven solutions**
+- 🌱 **Learning:** React Native (Mobile App Dev)**  
+- 📊 **Data Science:** Python, Machine Learning, NLP, Predictive Modeling  
+- 💬 **Ask me about:** MERN Stack, Python, Data Analysis, Machine Learning  
+- 📫 **Reach me:** [sravansaiba@gmail.com](mailto:sravansaiba@gmail.com)  
+- 🌍 **[Portfolio](#) | [LinkedIn](https://linkedin.com/in/sravansaiba) | [GitHub](https://github.com/sravansaiba)**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### **Frontend**
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+#### **🎨 Frontend Development**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+#### **🖥️ Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-
-#### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
+#### **📊 Data Science & Machine Learning**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-00758F?style=flat)
 
-#### **Other Tools & Technologies**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+#### **🔧 Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
 
 ---
 
@@ -59,27 +62,33 @@
 
 ---
 
-### 📌 Featured Projects
-🚀 **[Automatic Text Summarizer](#)**  
-🛠 **Tech:** Python, Flask, NLP, Machine Learning  
-📌 **Description:** Built an NLP-based framework for automated text summarization, optimized processing speed by 30%.  
+### 📌 Projects
+
+#### 📝 **NLP-Based Automatic Text Summarization**
+- **Tech Stack:** Python, NLP, Flask, Machine Learning  
+- **Summary:**  
+  - Developed a **text summarization framework** using **Natural Language Processing (NLP)**.  
+  - Implemented **extractive and abstractive summarization techniques** for automatic content generation.  
+  - **Flask-based API** for real-time text summarization.  
+  - **Impact:** Improves reading efficiency by generating concise summaries from lengthy documents.
+ 
+#### 🧠 **Mice Protein Analysis**
+- **Tech Stack:** Python, Pandas, Scikit-Learn, PCA  
+- **Summary:**  
+  - Performed **Principal Component Analysis (PCA)** on protein expression levels in the **cerebral cortex** of 72 mice.  
+  - Classified mice into 8 categories based on **genotype, treatment, and behavior**.  
+  - Identified **key discriminant proteins** impacting classification accuracy.  
+  - Applied **data preprocessing, feature scaling, and dimensionality reduction** techniques.  
+  - **Impact:** Helped in better understanding of how protein expressions differ across experimental groups.
 
 🌐 **[Job Search Portal](#)**  
-🛠 **Tech:** React.js, Tailwind CSS, Strapi CMS  
-📌 **Description:** Developed an interactive job search platform with optimized UI and backend for seamless content management.  
+🛠- **Tech:** React.js, Tailwind CSS, Strapi CMS  
+ - **Description:** Developed an interactive job search platform with optimized UI and backend for seamless content management.  
 
 📝 **[Blog Application](#)**  
-🛠 **Tech:** React.js, Appwrite, Firebase  
-📌 **Description:** Designed and developed a secure and scalable blog platform with admin management features.
+- **Tech:** React.js, Appwrite, Firebase  
+-  **Description:** Designed and developed a secure and scalable blog platform with admin management features.
 
----
 
-### 📜 Certifications
-- **PCAP: Programming Essentials in Python – Cisco**
-- **SQL & Database Design – Scaler**
-- **Web Development – Internshala Trainings**
 
----
-
-Thanks for stopping by! 😊 **Let’s build something amazing together.** 🚀
-
+💡 **I’m always excited to work on new ideas and collaborations! Let’s build something amazing together.** 🚀
