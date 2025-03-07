@@ -51,16 +51,6 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
 
 ### 📌 Projects
 
@@ -88,6 +78,18 @@
 📝 **[Blog Application](#)**  
 - **Tech:** React.js, Appwrite, Firebase  
 -  **Description:** Designed and developed a secure and scalable blog platform with admin management features.
+
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
 
 
 
