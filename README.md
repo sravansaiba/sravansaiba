@@ -1,26 +1,85 @@
 <h1 align="center">Hi 👋, I'm Sravan Saiba</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Software Developer & MERN Stack Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sravansaiba&label=Profile%20views&color=0e75b6&style=flat" alt="sravansaiba" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravansaiba" alt="sravansaiba" /></a> </p>
-
-- 🔭 I’m currently working on **Next.js**
-
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **MERN,Python,Django**
-
-- 📫 How to reach me **sravansaiba@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sravansaiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sravansaiba" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sravansaiba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&locale=en" alt="sravansaiba" /></p>
+### 🚀 About Me
+- 🔭 Currently working as a **Junior Developer Intern at Vidyardi Institutions**
+- 💡 Passionate about **MERN stack, React Native, and scalable web solutions**
+- 🌱 Learning **Next.js & TypeScript**
+- 🤝 Open to **collaborations on MERN & AI-driven projects**
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Python, and Django**
+- 📫 Reach me at **[sravansaiba@gmail.com](mailto:sravansaiba@gmail.com)**
+- 🌍 **[Portfolio](#)** | [LinkedIn](https://linkedin.com/in/sravansaiba) | [GitHub](https://github.com/sravansaiba)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&" alt="sravansaiba" /></p>
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend**
+![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### **Other Tools & Technologies**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&theme=radical" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+🚀 **[Automatic Text Summarizer](#)**  
+🛠 **Tech:** Python, Flask, NLP, Machine Learning  
+📌 **Description:** Built an NLP-based framework for automated text summarization, optimized processing speed by 30%.  
+
+🌐 **[Job Search Portal](#)**  
+🛠 **Tech:** React.js, Tailwind CSS, Strapi CMS  
+📌 **Description:** Developed an interactive job search platform with optimized UI and backend for seamless content management.  
+
+📝 **[Blog Application](#)**  
+🛠 **Tech:** React.js, Appwrite, Firebase  
+📌 **Description:** Designed and developed a secure and scalable blog platform with admin management features.
+
+---
+
+### 📜 Certifications
+- **PCAP: Programming Essentials in Python – Cisco**
+- **SQL & Database Design – Scaler**
+- **Web Development – Internshala Trainings**
+
+---
+
+Thanks for stopping by! 😊 **Let’s build something amazing together.** 🚀
+
