@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sravan Saiba</h1>
-<h3 align="center">Software Developer | MERN Stack | Data Science Enthusiast</h3>
+<h3 align="center">Software Developer | Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sravansaiba&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Junior Developer Intern at **Vidaryadi Institutions**
+- 🔭 **Currently:** Software Developer Intern at **Vidaryadi Institutions pvt ltd**
 - 💡 Passionate about **MERN stack, Data Science, and AI-driven solutions**
 - 🌱 **Learning:** React Native (Mobile App Dev)**  
 - 📊 **Data Science:** Python, Machine Learning, NLP, Predictive Modeling  
