@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Software Developer Intern at **Vidaryadi Institutions pvt ltd**
+- 🔭 **Currently:** Software Developer at **KARTNEX RETAIL (OPC) PRIVATE LIMITED **
 - 💡 Passionate about **MERN stack, Data Science, and AI-driven solutions**
 - 🌱 **Learning:** React Native (Mobile App Dev)**  
 - 📊 **Data Science:** Python, Machine Learning, NLP, Predictive Modeling  
