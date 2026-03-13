@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently:** Software Developer at **KARTNEX RETAIL (OPC) PRIVATE LIMITED **
+- 🔭 **Currently:** FullStack Developer at **ORYZN TECH PRIVATE LIMITED **
 - 💡 Passionate about **MERN stack, Data Science, and AI-driven solutions**
 - 🌱 **Learning:** React Native (Mobile App Dev)**  
 - 📊 **Data Science:** Python, Machine Learning, NLP, Predictive Modeling  
