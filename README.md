@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sravan Saiba 👋</h1>
+<!-- <h1 align="left">Hi, I'm Sravan Saiba 👋</h1>
 <h3 align="left">Full-Stack Engineer</h3>
 
  <p align="center">
@@ -60,4 +60,146 @@
 
 ---
 
+ -->
 
+
+
+<div align="center">
+
+```
+ ___  ____  __   _  _  __   __ _     ___   __   __  ____   __
+/ __)(  _ \/ _\ / )( \/ _\ (  ( \   / __) / _\ (  )(  _ \ / _\
+\__ \ )   /    \\ \/ /    \/    /   \__ \/    \ )(  ) _ (/    \
+(___/(__\_)\_/\_/ \__/\_/\_/\_)__)  (___/\_/\_/(__)(____)\_/\_/
+```
+
+### Full-Stack Engineer · Web + Mobile · Hyderabad, IN
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sravansaiba.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://sravansaiba.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sravansaiba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sravansaiba)
+[![Email](https://img.shields.io/badge/Email-sravansaiba@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sravansaiba@gmail.com)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```ts
+const sravan = {
+  role      : "Full-Stack Engineer",
+  location  : "Hyderabad, Telangana, IN",
+  experience: "1+ year in production delivery",
+  current   : "Building Marinate360 — multi-tenant restaurant SaaS",
+  focus     : ["Real-time systems", "POS workflows", "Mobile (RN)", "AI tooling"],
+  instinct  : "Frontend-first. Backend-ready. Ships things.",
+};
+```
+
+---
+
+## `$ cat tech-stack.json`
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Data & Auth**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=flat-square&logo=coolify&logoColor=white)
+
+---
+
+## `$ ls ./projects`
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| **[Marinate360](https://marinate360.com)** | Multi-tenant restaurant SaaS — QR ordering, POS, real-time ops, payments | Next.js · Supabase · Razorpay · PostgreSQL | 🟢 Live |
+| **[Regal Interiors](https://theregalinteriors.com)** | Luxury interior brand site with lead capture flow | Next.js · Resend · Tailwind | 🟢 Live |
+| **ParkScan** | QR-based parking management app — sessions, pricing, PDF/Excel exports | React Native · Supabase · Expo | 🟢 Client delivery |
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commit+Activity" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansaiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="140"/>
+
+</div>
+
+---
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravansaiba&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph"/>
+
+</div>
+
+---
+
+## `$ cat experience.log`
+
+```
+[2025 → now]  Full Stack Developer @ Orzyn Tech Pvt. Ltd.
+              └─ ERP, POS, QR ordering, client-facing platforms
+
+[2024 → 2025] Frontend Developer @ Vidyardi Institutions Pvt. Ltd.
+              └─ React interfaces, CMS-driven product flows
+```
+
+---
+
+## `$ ping me`
+
+```bash
+# Open to:
+#   → Full-time roles (full-stack, frontend-heavy)
+#   → Freelance product builds
+#   → Interesting problems involving real-time, mobile, or AI
+
+curl -X POST https://sravansaiba.vercel.app/contact \
+  -d "message=let's build something"
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/→_View_Full_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sravansaiba.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with Next.js · Deployed on Vercel · Interests include AI tooling and scalable systems</sub>
+</div>
