@@ -67,7 +67,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=SRAVAN+SAIBA" alt="Sravan Saiba" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Web+%2B+Mobile+Developer;Next.js+%C2%B7+React+Native+%C2%B7+Supabase;Frontend-first.+Backend-ready.+Ships+things." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Frontend-first.+Backend-ready.+Ships+things." alt="Typing SVG" />
 
 <br/>
 
