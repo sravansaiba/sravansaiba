@@ -159,9 +159,4 @@
 
 ---
 
-## ⚡ Philosophy
-
-> Systems > features
-> Reliability > complexity
-> Build for real-world usage, not ideal scenarios
 
