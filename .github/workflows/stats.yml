@@ -2,8 +2,8 @@ name: Generate Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from GitHub UI
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
@@ -21,22 +21,45 @@ jobs:
         run: mkdir -p assets
 
       # ── GitHub Stats card ──────────────────────────────────────────────
+      # Uses a self-deployed instance — more reliable than the shared one
       - name: Download stats card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" \
-            -o assets/stats.svg || echo "stats fetch failed"
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" \
+            -o assets/stats.svg
+          # Validate it's actually an SVG, not an error page
+          if ! grep -q "<svg" assets/stats.svg; then
+            echo "⚠️ stats.svg is not a valid SVG — keeping previous version"
+            git checkout -- assets/stats.svg 2>/dev/null || rm -f assets/stats.svg
+          else
+            echo "✅ stats.svg OK ($(wc -c < assets/stats.svg) bytes)"
+          fi
 
-      # ── Streak card ────────────────────────────────────────────────────
+      # ── Streak card — uses demolab which is more stable ────────────────
       - name: Download streak card
         run: |
-          curl -s "https://streak-stats.demolab.com/?user=sravansaiba&theme=tokyonight&hide_border=true" \
-            -o assets/streak.svg || echo "streak fetch failed"
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "https://streak-stats.demolab.com/?user=sravansaiba&theme=tokyonight&hide_border=true&cache_seconds=1800" \
+            -o assets/streak.svg
+          if ! grep -q "<svg" assets/streak.svg; then
+            echo "⚠️ streak.svg invalid — keeping previous"
+            git checkout -- assets/streak.svg 2>/dev/null || rm -f assets/streak.svg
+          else
+            echo "✅ streak.svg OK ($(wc -c < assets/streak.svg) bytes)"
+          fi
 
-      # ── Top Languages card ─────────────────────────────────────────────
+      # ── Top Languages — use a different instance ───────────────────────
       - name: Download top languages card
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=sravansaiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=500" \
-            -o assets/langs.svg || echo "langs fetch failed"
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=sravansaiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=500&cache_seconds=1800" \
+            -o assets/langs.svg
+          if ! grep -q "<svg" assets/langs.svg; then
+            echo "⚠️ langs.svg invalid — keeping previous"
+            git checkout -- assets/langs.svg 2>/dev/null || rm -f assets/langs.svg
+          else
+            echo "✅ langs.svg OK ($(wc -c < assets/langs.svg) bytes)"
+          fi
 
       # ── Snake animation ────────────────────────────────────────────────
       - name: Generate snake (dark)
@@ -50,6 +73,10 @@ jobs:
         with:
           github_user_name: sravansaiba
           outputs: assets/snake-light.svg?palette=github
+
+      # ── Show what we got ───────────────────────────────────────────────
+      - name: List assets
+        run: ls -lh assets/
 
       # ── Commit everything back ─────────────────────────────────────────
       - name: Commit assets
