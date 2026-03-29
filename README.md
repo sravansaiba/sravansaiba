@@ -97,7 +97,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sravan Saiba</h1>
+<h1 align="center">Hi, I'm Sravan Saiba 👋</h1>
 <h3 align="center">Full-Stack Engineer | Real-time SaaS Systems</h3>
 
 <p align="center">
@@ -118,7 +118,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,postgres,supabase,git,github" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,honojs,postgres,supabase,git,github,githubactions,docker,prisma" />
 </p>
 
 ---
