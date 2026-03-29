@@ -180,7 +180,7 @@ const sravan = {
 [2025 → now]  Full Stack Developer @ Orzyn Tech Pvt. Ltd.
               └─ ERP, POS, QR ordering, client-facing platforms
 
-[2024 → 2025] Frontend Developer @ Vidyardi Institutions Pvt. Ltd.
+[2024 → 2025] Junior Developer @ Vidyardi Institutions Pvt. Ltd.
               └─ React interfaces, CMS-driven product flows
 ```
 
