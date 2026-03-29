@@ -118,7 +118,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,hono.js,postgres,supabase,git,github,githubactions,docker,prisma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,supabase,git,github,githubactions,docker,prism,mongodb," />
 </p>
 
 ---
