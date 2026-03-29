@@ -66,18 +66,16 @@
 
 <div align="center">
 
-```
- ___  ____  __   _  _  __   __ _     ___   __   __  ____   __
-/ __)(  _ \/ _\ / )( \/ _\ (  ( \   / __) / _\ (  )(  _ \ / _\
-\__ \ )   /    \\ \/ /    \/    /   \__ \/    \ )(  ) _ (/    \
-(___/(__\_)\_/\_/ \__/\_/\_/\_)__)  (___/\_/\_/(__)(____)\_/\_/
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=SRAVAN+SAIBA" alt="Sravan Saiba" />
 
-### Full-Stack Engineer · Web + Mobile · Hyderabad, IN
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Web+%2B+Mobile+Developer;Next.js+%C2%B7+React+Native+%C2%B7+Supabase;Frontend-first.+Backend-ready.+Ships+things." alt="Typing SVG" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sravansaiba.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://sravansaiba.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sravansaiba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sravansaiba)
 [![Email](https://img.shields.io/badge/Email-sravansaiba@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sravansaiba@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sravansaiba-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sravansaiba)
 
 </div>
 
@@ -127,7 +125,7 @@ const sravan = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=flat-square&logo=coolify&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6C47FF?style=flat-square)
 
 ---
 
@@ -145,14 +143,15 @@ const sravan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Commit+Activity" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sravansaiba&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sravansaiba&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=sravansaiba&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansaiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansaiba&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=500" alt="Top Languages"/>
 
 </div>
 
@@ -162,7 +161,7 @@ const sravan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravansaiba&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sravansaiba&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -201,5 +200,5 @@ curl -X POST https://sravansaiba.vercel.app/contact \
 ---
 
 <div align="center">
-<sub>Built with Next.js · Deployed on Vercel · Interests include AI tooling and scalable systems</sub>
+<sub>Hyderabad · Full-Stack · Next.js · React Native · Interested in AI tooling and scalable systems</sub>
 </div>
