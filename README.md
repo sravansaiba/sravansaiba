@@ -98,10 +98,10 @@
 
 
 <h1 align="center">Hi, I'm Sravan Saiba 👋</h1>
-<h3 align="center">Full-Stack Engineer | Real-time SaaS Systems</h3>
+<h3 align="center">Full-Stack Enginee</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Real-time+Systems;Multi-tenant+SaaS+Engineer;Web+%2B+Mobile+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&center=true&vCenter=true&width=600&lines=Builing Web+%2B+Mobile+Developer; Learning Ai " />
 </p>
 
 ---
