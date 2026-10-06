@@ -21,7 +21,7 @@
 const sravan = {
   role      : "Full-Stack Engineer",
   location  : "Hyderabad, Telangana, IN",
-  experience: "1+ year in production delivery",
+  experience: "2 years in production delivery",
   current   : "Building Marinate360 — multi-tenant restaurant SaaS",
   focus     : ["Real-time systems", "POS workflows", "Mobile (RN)", "AI tooling"],
   instinct  : "Frontend-first. Backend-ready. Ships things.",
