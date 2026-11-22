@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="112" viewBox="0 0 470 112" role="img" aria-labelledby="title">
+  <title id="title">Sravan Saiba — Full Stack Developer</title>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    @media (prefers-reduced-motion: no-preference) {
+      .role { animation: appear 800ms ease-out both; }
+    }
+    @keyframes appear {
+      from { opacity: .66; transform: translateY(3px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+  <text x="1" y="58" fill="#edf1f6" font-size="57" font-weight="650" letter-spacing="-2.2">Sravan Saiba</text>
+  <text class="role" x="3" y="97" fill="#a9b9cc" font-size="24" font-weight="450" letter-spacing=".1">Full Stack Developer</text>
+</svg>
